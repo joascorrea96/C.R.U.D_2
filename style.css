@@ -1,0 +1,24 @@
+a#acess {
+    text-decoration: none;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+div#link {
+    background-color: brown;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    font: normal 20px arial;
+    box-shadow: 1px 1px 1px black;
+    margin: auto;
+    padding: 20px;
+}
+
+body {
+    background-color: rgb(80, 80, 80);
+    color: yellow;
+}
